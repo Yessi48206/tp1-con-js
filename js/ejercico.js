@@ -10,7 +10,9 @@ document.write("<h2> Hola mundo </h2> ")
 document.write("<p> 3+5 = "+ (3+5) + "</p>")
 
 //4.- Escribe un programa de dos líneas que pida el nombre del usuario con un prompt y escriba un texto que diga «Hola nombreUsuario»
-
+/*let Nombre = prompt("Ingrese el nombre");
+console.log(Nombre);
+ducument.write ("<p> Hola " + ( Nombre ) + "</p>");*/
 
 //5.- Escribe un programa de tres líneas que pida un número, pida otro número y escriba el resultado de sumar estos dos números.
 //let numeroUno= parseInt(prompt("ingrese el primer numero"));
